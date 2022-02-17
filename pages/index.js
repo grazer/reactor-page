@@ -11,9 +11,10 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Reactor 7" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+        <iframe width="320" height="527" src="https://flowlab.io/game/embed/1768585" frameborder="0" allowfullscreen></iframe>
+        made with <a href="https://flowlab.io">Flowlab game making software</a> 
         </p>
       </main>
 
