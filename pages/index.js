@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Reactor 7 - made with Flowlab</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -14,6 +14,8 @@ export default function Home() {
         <Header title="Reactor 7" />
         <p className="description">
         <iframe width="320" height="527" src="https://flowlab.io/game/embed/1768585" frameborder="0" allowfullscreen></iframe>
+        </p>
+        <p className="description">
         made with <a href="https://flowlab.io">Flowlab game making software</a> 
         </p>
       </main>
